@@ -2,7 +2,6 @@ import { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-
   const [ value,setvalue]= useState(0)
   return (
     <div>
